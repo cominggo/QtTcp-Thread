@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/TcpServer">
+        <file>离线服务.png</file>
+        <file>连接.png</file>
+    </qresource>
+</RCC>
